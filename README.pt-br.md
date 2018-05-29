@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://avatars2.githubusercontent.com/u/31752856"
+  <img src="https://avatars2.githubusercontent.com/u/39722014"
        alt="" width="200" />
 </p>
 
 # Sensum
 
-> Projeto da RapidLight direcionado à exploração prática dos temas relacionados
+> Projeto da Radialle direcionado à exploração prática dos temas relacionados
   ao desenvolvimento de _wearables_.
 
 _Este documento também está disponível nas seguintes linguagens:
@@ -18,22 +18,19 @@ amiga (homenagem póstuma).
 
 ## Repositórios
 
-* [Sensum](https://github.com/rltsensum/sensum)  
+* [Sensum](https://github.com/radialle-sensum/sensum)  
   Para informações e discussões que abrangem todo o projeto.
 
-* [Lumen](https://github.com/rltsensum/lumen)  
-  Dispositivo eletrônico com a aparência externa de um broche luminoso.
-
-* [radiansd](https://github.com/rltsensum/radiansd)  
+* [radiansd](https://github.com/radialle-sensum/radiansd)  
   Software para controle de LED utilizado no Lumen.
 
-* [ldcf](https://github.com/rltsensum/ldcf)  
+* [ldcf](https://github.com/radialle-sensum/ldcf)  
   Firmware do controlador de display do Lumen.
   
 ## Outros Links
 
-* [RapidLight](https://rapidlight.io)  
-  Grupo independente dedicado a pesquisas em tecnologia da informação.
+* [Radialle](https://radialle.com)  
+  Grupo dedicado a pesquisas em tecnologia da informação.
 
 ## Agradecimentos
 
